@@ -22,6 +22,10 @@ http://www.scheme.com/tspl4/
 
 http://5top100.ru/upload/iblock/85f/85f3f644ead9ca3fb0e76057242926ea.pdf 
 
+# Интерпретация Лиспа и Scheme (Кристиан Кеннек)
+
+http://ilammy.github.io/lisp/
+
 # Scheme (ВикиУчебники для школьников)
 
 https://ru.wikibooks.org/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%8F%D0%B7%D1%8B%D0%BA_Scheme_%D0%B4%D0%BB%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2
