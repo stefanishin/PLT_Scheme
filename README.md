@@ -16,8 +16,9 @@ http://plt-scheme.org/software/drscheme/
 
 7 июня 2010 года, PLT Scheme был переименован в Racket
 
-# Racket
+# Racket      
 Racket  - мультипарадигменный язык программирования общего назначения, принадлежащий семейству Lisp/Scheme
+https://racket-lang.org/
 
 # Site downloads Racket:
-https://download.racket-lang.org/
+https://download.racket-lang.org
