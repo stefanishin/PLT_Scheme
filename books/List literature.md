@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Scheme_(programming_language)
 
 http://www.scheme.com/tspl4/
 
+# Revised6 Report on the Algorithmic Language Scheme
+http://docs.racket-lang.org/r6rs/r6rs-std/r6rs-Z-H-2.html
+
 # Метапрограммирование
 
 http://www.ibm.com/developerworks/ru/library/l-metaprog1/index.html
