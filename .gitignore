@@ -6,6 +6,6 @@
 *.scm#*
 .#*.scm
 
-*.txt~
-*.txt#*
-.#*.txt
+*.rkt~
+*.rkt#*
+.#*.rkt
