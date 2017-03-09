@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Scheme_(programming_language)
 
 http://www.scheme.com/tspl4/
 
+# Метапрограммирование
+
+http://www.ibm.com/developerworks/ru/library/l-metaprog1/index.html
 
 
 # Структура и интерпретация компьютерных программ 2006 г.
