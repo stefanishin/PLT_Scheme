@@ -9,3 +9,11 @@
 *.rkt~
 *.rkt#*
 .#*.rkt
+
+*.pdf~
+*.pdf#*
+.#*.pdf
+
+*.docx~
+*.docx#*
+.#*.docx
