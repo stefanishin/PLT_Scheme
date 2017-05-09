@@ -7,8 +7,8 @@ $ sudo apt-get install plt-scheme (Racket)
 
 http://download.plt-scheme.org/mzscheme/mz-4-2-5-bin-x86_64-linux-f7-sh.html
 
-#> chmod +x mz-4.2.5-bin-x86_64-linux-f7.sh 
-#> sh mz-4.2.5-bin-x86_64-linux-f7.sh 
+# > chmod +x mz-4.2.5-bin-x86_64-linux-f7.sh 
+# > sh mz-4.2.5-bin-x86_64-linux-f7.sh 
 
 $ ./mzscheme 
 
