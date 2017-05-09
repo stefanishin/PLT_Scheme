@@ -3,11 +3,14 @@
 Scheme – это функциональный язык программирования. 
 
 # Install Ubuntu
-$ sudo apt-get install plt-scheme
+$ sudo apt-get install plt-scheme (Racket)
 
-$ mzscheme
+http://download.plt-scheme.org/mzscheme/mz-4-2-5-bin-x86_64-linux-f7-sh.html
+> chmod +x mz-4.2.5-bin-x86_64-linux-f7.sh 
+> sh mz-4.2.5-bin-x86_64-linux-f7.sh 
+$ ./mzscheme 
 
-Welcome to MzScheme v4.2.1 [3m], Copyright (c) 2004-2009 PLT Scheme Inc.
+Welcome to MzScheme v4.2.5 [3m], Copyright (c) 2004-2010 PLT Scheme Inc.
 # >
 
 # Install Windows
